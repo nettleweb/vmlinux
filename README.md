@@ -1,2 +1,2 @@
 # vmlinux
-32-bit PC emulator in HTML5 and WebAssembly
+A 32-bit PC emulator that runs in your browser
